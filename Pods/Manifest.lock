@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (4.8.2)
+  - SDWebImage (4.4.6):
+    - SDWebImage/Core (= 4.4.6)
+  - SDWebImage/Core (4.4.6)
+  - StickyHeader (2.0.0)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - SDWebImage (~> 4.0)
+  - StickyHeader
+  - SVProgressHUD
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - SDWebImage
+    - StickyHeader
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  SDWebImage: 3f3f0c02f09798048c47a5ed0a13f17b063572d8
+  StickyHeader: 9da9618df59172b5803a6e9b2c5e5880d10b192b
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: 82be2dcf4178dd01c63a6daea17f7cbbc671713c
+
+COCOAPODS: 1.6.1

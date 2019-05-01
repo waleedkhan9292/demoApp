@@ -1,0 +1,6 @@
+framework module StickyHeader {
+  umbrella header "StickyHeader-umbrella.h"
+
+  export *
+  module * { export * }
+}
